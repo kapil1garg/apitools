@@ -73,7 +73,7 @@ disable =
 # Tells whether to display a full report or only the messages
 # DEFAULT:  reports=yes
 # RATIONALE:  run from Travis / tox, and don't need / want to parse output.
-reports=no
+reports=yes
 
 # Python expression which should return a note less than 10 (10 is the highest
 # note). You have access to the variables errors warning, statement which
